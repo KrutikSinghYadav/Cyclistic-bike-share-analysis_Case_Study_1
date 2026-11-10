@@ -60,3 +60,11 @@ Based on the data insights, here are the top marketing strategies suggested to c
 * **Tableau:** Employed to build interactive visual dashboards, line charts, and bar graphs to compare user group behaviors side-by-side.
 
 Tableau dashboard link: https://public.tableau.com/views/Cyclistic_Case_Study_17746547636700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## 📸 Project Snapshots
+
+### Dashboard
+[![Cyclistic Dashboard](Screenshot%202026-11-06%20013834.png)](https://public.tableau.com/views/Cyclistic_Case_Study_17746547636700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Key Insights & Recommendations
+![Cyclistic Key Insights](Screenshot%202026-11-06%20013856.png)
